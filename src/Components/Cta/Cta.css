@@ -1,0 +1,27 @@
+.cta{
+    padding: 80px 10%;
+    background-color: #043263;
+    text-align: center;
+    color: #ffff;
+}
+.cta-content h2{
+    font-size: 35px;
+    padding-bottom: 10px;
+
+}
+.cta-content p{
+    font-size: 19px;
+    padding-bottom: 30px;
+}
+.cta-content .cta-button{
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 20px;
+    border: none;
+}
+.cta-content .cta-button:hover{
+    background-color: red;
+    color: whitesmoke;
+}
