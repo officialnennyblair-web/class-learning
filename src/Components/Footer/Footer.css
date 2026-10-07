@@ -44,7 +44,20 @@
     color: #aaa;
     font-size: 14px;
 }
+@media (max-width: 480px) {
+  .Footer {
+    padding: 50px 6%;
+    height: auto;
+  }
+  .copyright {
+    width: 100%;
+    padding: auto;
+  }
+  .footer-box a{
+    font-size: 26px;
 
+  }
+}
 
 
 
